@@ -2,10 +2,10 @@
 
 A clean, modern, fully responsive profile card built with HTML, CSS, and JavaScript. Features include a profile image, dark mode toggle, reveal/hide information section, clickable social links, and mobile‑friendly layout.
 
-# 🚀 Live Demo
+# Live Demo
 (Insert your GitHub Pages link here once deployed)
 
-# 📸 Features
+# Features
 - Responsive design for mobile, tablet, and desktop
 - Profile image with circular crop and border
 - Dark mode toggle using JavaScript
